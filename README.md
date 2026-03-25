@@ -10,12 +10,6 @@ This project is an interactive Power BI dashboard designed to analyze Instagram 
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](dashboard.png)
-
----
-
 ## 📌 Key Features
 
 * KPI cards for Total Posts, Reach, Impressions, Followers Gained, and Engagement Rate
